@@ -8,7 +8,7 @@ Why is this important? By having an OpenAI Compatible API, you can integrate sta
 
 Here is an example of how I connected Open WebUI with *gpt-oss-20b, gpt-oss-120b and llama-3.3-70b-instruct* LLMs hosted in OCI Generative AI Service in the Frankfurt region.
 
-![alt text](image.png)
+![Open WebUI](/docs/open_webui.png)
 
 
 Currently, the following Models are supported:
