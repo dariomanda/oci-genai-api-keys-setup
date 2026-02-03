@@ -65,7 +65,7 @@ Please refer to the [OCI Documentation](https://docs.oracle.com/en-us/iaas/Conte
 ## 3 Testing API Key functionality via curl and the completions API
 
 You can do a short test via the following *curl* example.
-If you created the API Keys in the Frankfurt Region, you'll just need to Bearer token in the example below and should get a response.
+If you created the API Keys in the Frankfurt Region, you'll just need to update Bearer token in the example below and should get a response.
 
 ```
 curl --location 'https://inference.generativeai.eu-frankfurt-1.oci.oraclecloud.com/20231130/actions/v1/chat/completions' \
